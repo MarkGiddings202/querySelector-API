@@ -1,0 +1,11 @@
+let one = document.body.querySelector("h1")
+let two = document.body.querySelector(".cat")
+let three = document.body.querySelector("#blog")
+let four = document.body.querySelector("[mobile]")
+let five = document.querySelectorAll("h1")
+
+console.log(one)
+console.log(two)
+console.log(three)
+console.log(four)
+console.log(five)
